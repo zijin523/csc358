@@ -1,0 +1,33 @@
+starting on host localhost
+Sender: sent file q.txt
+Sender: sent PKT0
+Sender: sent PKT1
+Sender: sent PKT2
+Sender: sent PKT3
+Sender: received ACK0
+Sender: sent PKT4
+Sender: received ACK3
+Sender: received ACK4
+Sender: sent PKT1
+Sender: sent PKT1
+Sender: sent PKT1
+Sender: received ACK1
+Sender: sent PKT5
+Sender: received ACK5
+Sender: sent PKT2
+Sender: sent PKT2
+Sender: received ACK2
+Sender: sent PKT6
+Sender: sent PKT7
+Sender: sent PKT8
+Sender: sent PKT9
+Sender: received ACK6
+Sender: sent PKT0
+Sender: received ACK7
+Sender: received ACK8
+Sender: received ACK9
+Sender: received ACK0
+Sender: file transfer completed
+Sender: number of effective bytes sent: 857 bytes
+Sender: number of packets sent: 16 packets
+Sender: number of bytes sent: 1257 bytes
