@@ -1,0 +1,165 @@
+Receiver: received cat.jpg
+Receiver: received PKT0
+Receiver: sent an ACK0
+Receiver: received PKT4
+Receiver: sent an ACK4
+Receiver: received PKT1
+Receiver: sent an ACK1
+Receiver: received PKT5
+Receiver: sent an ACK5
+Receiver: received PKT2
+Receiver: sent an ACK2
+Receiver: received PKT6
+Receiver: sent an ACK6
+Receiver: received PKT3
+Receiver: sent an ACK3
+Receiver: received PKT7
+Receiver: sent an ACK7
+Receiver: received PKT9
+Receiver: sent an ACK9
+Receiver: received PKT1
+Receiver: sent an ACK1
+Receiver: received PKT8
+Receiver: sent an ACK8
+Receiver: received PKT2
+Receiver: sent an ACK2
+Receiver: received PKT3
+Receiver: sent an ACK3
+Receiver: received PKT0
+Receiver: sent an ACK0
+Receiver: received PKT4
+Receiver: sent an ACK4
+Receiver: received PKT5
+Receiver: sent an ACK5
+Receiver: received PKT6
+Receiver: sent an ACK6
+Receiver: received PKT7
+Receiver: sent an ACK7
+Receiver: received PKT8
+Receiver: sent an ACK8
+Receiver: received PKT9
+Receiver: sent an ACK9
+Receiver: received PKT0
+Receiver: sent an ACK0
+Receiver: received PKT2
+Receiver: sent an ACK2
+Receiver: received PKT4
+Receiver: sent an ACK4
+Receiver: received PKT1
+Receiver: sent an ACK1
+Receiver: received PKT5
+Receiver: sent an ACK5
+Receiver: received PKT3
+Receiver: sent an ACK3
+Receiver: received PKT8
+Receiver: sent an ACK8
+Receiver: received PKT9
+Receiver: sent an ACK9
+Receiver: received PKT6
+Receiver: sent an ACK6
+Receiver: received PKT0
+Receiver: sent an ACK0
+Receiver: received PKT7
+Receiver: sent an ACK7
+Receiver: received PKT1
+Receiver: sent an ACK1
+Receiver: received PKT3
+Receiver: sent an ACK3
+Receiver: received PKT4
+Receiver: sent an ACK4
+Receiver: received PKT5
+Receiver: sent an ACK5
+Receiver: received PKT2
+Receiver: sent an ACK2
+Receiver: received PKT7
+Receiver: sent an ACK7
+Receiver: received PKT8
+Receiver: sent an ACK8
+Receiver: received PKT6
+Receiver: sent an ACK6
+Receiver: received PKT0
+Receiver: sent an ACK0
+Receiver: received PKT1
+Receiver: sent an ACK1
+Receiver: received PKT2
+Receiver: sent an ACK2
+Receiver: received PKT9
+Receiver: sent an ACK9
+Receiver: received PKT6
+Receiver: sent an ACK6
+Receiver: received PKT3
+Receiver: sent an ACK3
+Receiver: received PKT7
+Receiver: sent an ACK7
+Receiver: received PKT4
+Receiver: sent an ACK4
+Receiver: received PKT5
+Receiver: sent an ACK5
+Receiver: received PKT9
+Receiver: sent an ACK9
+Receiver: received PKT0
+Receiver: sent an ACK0
+Receiver: received PKT1
+Receiver: sent an ACK1
+Receiver: received PKT8
+Receiver: sent an ACK8
+Receiver: received PKT2
+Receiver: sent an ACK2
+Receiver: received PKT3
+Receiver: sent an ACK3
+Receiver: received PKT4
+Receiver: sent an ACK4
+Receiver: received PKT5
+Receiver: sent an ACK5
+Receiver: received PKT6
+Receiver: sent an ACK6
+Receiver: received PKT7
+Receiver: sent an ACK7
+Receiver: received PKT0
+Receiver: sent an ACK0
+Receiver: received PKT1
+Receiver: sent an ACK1
+Receiver: received PKT8
+Receiver: sent an ACK8
+Receiver: received PKT2
+Receiver: sent an ACK2
+Receiver: received PKT9
+Receiver: sent an ACK9
+Receiver: received PKT3
+Receiver: sent an ACK3
+Receiver: received PKT4
+Receiver: sent an ACK4
+Receiver: received PKT5
+Receiver: sent an ACK5
+Receiver: received PKT6
+Receiver: sent an ACK6
+Receiver: received PKT7
+Receiver: sent an ACK7
+Receiver: received PKT9
+Receiver: sent an ACK9
+Receiver: received PKT0
+Receiver: sent an ACK0
+Receiver: received PKT1
+Receiver: sent an ACK1
+Receiver: received PKT8
+Receiver: sent an ACK8
+Receiver: received PKT3
+Receiver: sent an ACK3
+Receiver: received PKT2
+Receiver: sent an ACK2
+Receiver: received PKT7
+Receiver: sent an ACK7
+Receiver: received PKT4
+Receiver: sent an ACK4
+Receiver: received PKT8
+Receiver: sent an ACK8
+Receiver: received PKT5
+Receiver: sent an ACK5
+Receiver: received PKT9
+Receiver: sent an ACK9
+Receiver: received PKT6
+Receiver: sent an ACK6
+Receiver: received PKT0
+Receiver: sent an ACK0
+Receiver: file transfer completed
+Receiver: number of bytes received: 6442 bytes
