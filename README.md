@@ -1,1 +1,1 @@
-# CSC358_Assignment1
+# CSC358 Assignemnt 1 && Assignment 2
